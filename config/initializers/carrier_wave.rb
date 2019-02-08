@@ -10,7 +10,7 @@ config.fog_credentials = {
 
 :aws_secret_access_key => ENV['S3_SECRET_KEY'],
 
-:region => 'ca-central-1'
+:region => 'us-west-2'
 
 }
 
