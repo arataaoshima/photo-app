@@ -366,6 +366,7 @@ DEPENDENCIES
   devise
   devise-bootstrap-views
   fog
+  fog-aws
   jbuilder (~> 2.0)
   jquery-rails
   mini_magick
